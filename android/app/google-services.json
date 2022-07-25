@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "421112501465",
+    "project_id": "mash-68a42",
+    "storage_bucket": "mash-68a42.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:421112501465:android:1f60599cdf9c5ad7855ac8",
+        "android_client_info": {
+          "package_name": "com.mahardhi.mash"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "421112501465-amghjvttiii6olgv5smuu7d21q8kacrg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDIYXeywWg61Ktx_hXtpem_6koR6yY4gD8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "421112501465-amghjvttiii6olgv5smuu7d21q8kacrg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
